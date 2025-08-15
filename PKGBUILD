@@ -12,7 +12,7 @@ depends=('initramfs' 'base')
 install=manjaro-update-system.sh
 source=('fsck.overlay'
         'networkmanager-connectivity.hook')
-sha256sums=('e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855'
+sha256sums=('306c6ca7407560340797866e077e053627ad409277d1b9da58106fce4cf717cb'
             'fc1fd9410f2b41726fac5b643c06f3324f3cd178a3533cc02ec656c3692ce90f')
 
 pkgver() {
